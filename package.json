@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Educational project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steleal/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "steleal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steleal/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/steleal/hexlet-js#readme"
+}
